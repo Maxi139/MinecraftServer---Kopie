@@ -1,8 +1,2 @@
-# Local credentials
-.rcon-cli.*
-
 # Generated cache databases (can exceed GitHub's file-size limit)
 **/DistantHorizons.sqlite
-
-# macOS metadata
-.DS_Store
