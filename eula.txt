@@ -1,3 +1,4 @@
-#By changing the setting below to TRUE you are indicating your agreement to our EULA (https://account.mojang.com/documents/minecraft_eula).
-#Mon Jul 06 23:10:38 MCS 2026
+# Generated via Docker
+# Tue Aug 11 10:25:59 PM CEST 2026
 eula=true
+
